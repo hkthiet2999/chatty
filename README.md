@@ -8,11 +8,11 @@ Xây dựng trang web chat trực tuyến bằng cách sử dụng giao thức W
 Người dùng sẽ nhập username và chọn chatroom, ứng dụng sẽ không có DB và không có cơ chế xác thực người dùng mà chỉ tập trung vào việc chat với nhau giữa các users
 Đây là giao diện đăng nhập
 
-![](readme_imgs/login.pns)
+![](readme_imgs/login.png)
 
 ### Chức năng trò chuyện giữa các user
 
-![](readme_imgs/main.pns)
+![](readme_imgs/main.png)
 
 Sau khi đăng nhập vào trang web, người dùng được chuyển hướng đến trang chủ,
 nơi mà danh sách những người dùng đang trực tuyến được hiển thị. Danh sách này sẽ được cập nhật theo thời gian thực. Nếu một người 
