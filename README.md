@@ -1,5 +1,5 @@
 # chatty
-Final version chatting website
+Final version chatting website, demo version: [WebChat_Demo](https://github.com/smoothkt4951/WebChat_Demo)
 
 ## Mô tả
 Xây dựng trang web chat trực tuyến bằng cách sử dụng giao thức Web Socket. Trang web sẽ có các chức năng sau
